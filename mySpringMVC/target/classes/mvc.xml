@@ -1,0 +1,11 @@
+<beans>
+    <component-scan basePage="com.sx"/>
+<!--    <bean id="securityInterceptor" class="com.sx.inter.SecurityInterceptor"/>-->
+<!--    <interceptors>-->
+<!--        <interceptor>-->
+<!--            <mapping path="/*"/>-->
+<!--            <ref bean="securityInterceptor"></ref>-->
+<!--        </interceptor>-->
+<!--    </interceptors>-->
+</beans>
+

@@ -1,0 +1,4 @@
+可访问权限：
+http://localhost:8080/demo/test?username=shengx
+http://localhost:8080/demo/test?username=shengx2
+http://localhost:8080/demo/sec?username=shengx
